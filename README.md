@@ -21,7 +21,7 @@ Built entirely with **Vanilla JavaScript**, without any frameworks or libraries 
 
 ---
 
-## 🎯 Project Goals
+## Project Goals
 
 This project was built to:
 
